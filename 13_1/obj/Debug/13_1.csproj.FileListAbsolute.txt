@@ -1,0 +1,113 @@
+E:\LAB 13\13_1\13_1\bin\Debug\13_1.exe.config
+E:\LAB 13\13_1\13_1\bin\Debug\13_1.exe
+E:\LAB 13\13_1\13_1\bin\Debug\13_1.pdb
+E:\LAB 13\13_1\13_1\obj\Debug\13_1.csprojAssemblyReference.cache
+E:\LAB 13\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+E:\LAB 13\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+E:\LAB 13\13_1\13_1\obj\Debug\13_1.exe
+E:\LAB 13\13_1\13_1\obj\Debug\13_1.pdb
+E:\!Программирование\13 лаб\13_1\13_1\bin\Debug\13_1.exe.config
+E:\!Программирование\13 лаб\13_1\13_1\bin\Debug\13_1.exe
+E:\!Программирование\13 лаб\13_1\13_1\bin\Debug\13_1.pdb
+E:\!Программирование\13 лаб\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+E:\!Программирование\13 лаб\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+E:\!Программирование\13 лаб\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+E:\!Программирование\13 лаб\13_1\13_1\obj\Debug\13_1.exe
+E:\!Программирование\13 лаб\13_1\13_1\obj\Debug\13_1.pdb
+C:\Users\stud\Desktop\13_1\13_1\bin\Debug\13_1.exe.config
+C:\Users\stud\Desktop\13_1\13_1\bin\Debug\13_1.exe
+C:\Users\stud\Desktop\13_1\13_1\bin\Debug\13_1.pdb
+C:\Users\stud\Desktop\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+C:\Users\stud\Desktop\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\13_1\13_1\obj\Debug\13_1.exe
+C:\Users\stud\Desktop\13_1\13_1\obj\Debug\13_1.pdb
+F:\!Программирование\финалочка 13\13_1\13_1\bin\Debug\13_1.exe.config
+F:\!Программирование\финалочка 13\13_1\13_1\bin\Debug\13_1.exe
+F:\!Программирование\финалочка 13\13_1\13_1\bin\Debug\13_1.pdb
+F:\!Программирование\финалочка 13\13_1\13_1\obj\Debug\13_1.csprojAssemblyReference.cache
+F:\!Программирование\финалочка 13\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+F:\!Программирование\финалочка 13\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+F:\!Программирование\финалочка 13\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+F:\!Программирование\финалочка 13\13_1\13_1\obj\Debug\13_1.exe
+F:\!Программирование\финалочка 13\13_1\13_1\obj\Debug\13_1.pdb
+C:\Users\Администратор\Desktop\13_1\13_1\bin\Debug\13_1.exe.config
+C:\Users\Администратор\Desktop\13_1\13_1\bin\Debug\13_1.exe
+C:\Users\Администратор\Desktop\13_1\13_1\bin\Debug\13_1.pdb
+C:\Users\Администратор\Desktop\13_1\13_1\obj\Debug\13_1.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\13_1\13_1\obj\Debug\13_1.exe
+C:\Users\Администратор\Desktop\13_1\13_1\obj\Debug\13_1.pdb
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\bin\Debug\13_1.exe.config
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\bin\Debug\13_1.exe
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\bin\Debug\13_1.pdb
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\obj\Debug\13_1.exe
+S:\БИТ20-11\Программирование\Петров\13_1\13_1\obj\Debug\13_1.pdb
+S:\БИТ20-11\Программирование\Петров\14 Лаб\13_1\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+S:\БИТ20-11\Программирование\Петров\14 Лаб\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+S:\БИТ20-11\Программирование\Петров\14 Лаб\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+S:\БИТ20-11\Программирование\Петров\14 Лаб\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+S:\БИТ20-11\Программирование\Петров\14 Лаб\13_1\13_1\obj\Debug\13_1.exe
+S:\БИТ20-11\Программирование\Петров\14 Лаб\13_1\13_1\obj\Debug\13_1.pdb
+E:\выполнено\13_1\13_1\bin\Debug\13_1.exe.config
+E:\выполнено\13_1\13_1\bin\Debug\13_1.exe
+E:\выполнено\13_1\13_1\bin\Debug\13_1.pdb
+E:\выполнено\13_1\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+E:\выполнено\13_1\13_1\obj\Debug\_13_1.Properties.Resources.resources
+E:\выполнено\13_1\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+E:\выполнено\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+E:\выполнено\13_1\13_1\obj\Debug\13_1.exe
+E:\выполнено\13_1\13_1\obj\Debug\13_1.pdb
+C:\Users\stud\Desktop\13_1\13_1\obj\Debug\13_1.csprojAssemblyReference.cache
+E:\Программирование\Курсовая работа\Программа\13_1\bin\Debug\13_1.exe.config
+E:\Программирование\Курсовая работа\Программа\13_1\bin\Debug\13_1.exe
+E:\Программирование\Курсовая работа\Программа\13_1\bin\Debug\13_1.pdb
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.csprojAssemblyReference.cache
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.Properties.Resources.resources
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.Form1.resources
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.exe
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.pdb
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.View.Form2.resources
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.View.Form3.resources
+F:\Программирование\Курсовая работа\Программа\13_1\bin\Debug\13_1.exe.config
+F:\Программирование\Курсовая работа\Программа\13_1\bin\Debug\13_1.exe
+F:\Программирование\Курсовая работа\Программа\13_1\bin\Debug\13_1.pdb
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.Properties.Resources.resources
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.Form1.resources
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.View.Form2.resources
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\_13_1.View.Form3.resources
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.exe
+F:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.pdb
+E:\Программирование\Курсовая работа\Программа\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\13_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\_13_1.Properties.Resources.resources
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\_13_1.Form1.resources
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\_13_1.View.Form2.resources
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\_13_1.View.Form3.resources
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\13_1.exe
+C:\Users\Данила\Desktop\Программа\13_1\obj\Debug\13_1.pdb
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\bin\Debug\13_1.exe.config
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\bin\Debug\13_1.exe
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\bin\Debug\13_1.pdb
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\13_1.csproj.SuggestedBindingRedirects.cache
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\_13_1.Properties.Resources.resources
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\_13_1.Form1.resources
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\_13_1.View.Form2.resources
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\_13_1.View.Form3.resources
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\13_1.csproj.GenerateResource.cache
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\13_1.exe
+E:\Учеба\Учеба КУРС 2\Програмирование\Программа\13_1\obj\Debug\13_1.pdb
