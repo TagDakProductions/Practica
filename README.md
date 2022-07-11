@@ -1,3 +1,3 @@
 # Practica
  Practical task based on term paper.
-Удовлетворительно
+Удовлетворительно/ согласен
